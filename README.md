@@ -1,2 +1,2 @@
 # Youtube_Chat
-This is this chat with YouTube videos
+This is the project that you can chat with YouTube videos.
