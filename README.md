@@ -1,4 +1,5 @@
-##🎥 YouTube Video Summarizer & QA Bot 🤖
+## 🎥 YouTube Video Summarizer & QA Bot 🤖
+
 This project extracts transcripts from YouTube videos and allows users to ask questions or generate summaries using an open-source LLM (TinyLlama-1.1B-Chat-v1.0) and semantic search with vector embeddings.
 
 📌 Features
